@@ -100,7 +100,7 @@
 .bg-hero {
     width:100%;
     height:500px;
-    background: url(../Poop-Guys/img/banner1.jpg);
+    background: url('banner1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
